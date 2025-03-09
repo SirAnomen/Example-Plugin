@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Nightmare Fade Remover
+Removes the pink fade when Nightmare shuffles your prayers
